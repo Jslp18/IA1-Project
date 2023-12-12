@@ -27,7 +27,11 @@ Este conjunto de datos consolida información de dos fuentes primarias: [`UCI Ma
 - TSNE
 
 # Enlace del código desarrollado del proyecto
-[`Código - Google Colaboratoy`]()
+[`Código - Google Colaboratoy - Primer Avance`](https://colab.research.google.com/drive/1vrjdV1qcNLlw6cZeCmKPKOx86H-XC0WJ?usp=sharing)
+
+[`Código - Google Colaboratoy - Segundo Avance`](https://colab.research.google.com/drive/14YeGaN0bRZD51TNwmaerCS7_P57ukByc?usp=sharing)
+
+[`Código - Google Colaboratoy - Segundo Avance`](https://colab.research.google.com/drive/14YeGaN0bRZD51TNwmaerCS7_P57ukByc?usp=sharing)
 # Enlace del video presentación del proyecto
 [`Youtube`]()
 # Enlace de diapositivas de presentación del proyecto
