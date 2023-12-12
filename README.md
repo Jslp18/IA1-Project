@@ -1,5 +1,6 @@
 # DEC: Diagnóstico de Enmerfedad Cardiovascular
-![ab84-cardiovascular-electrograma](https://github.com/Jslp18/IA1-Project/assets/99308344/9ee08d17-e929-46ef-8f60-9e4982caf7bc)
+
+![deadly gorgeous](https://github.com/Jslp18/IA1-Project/assets/99308344/5e7eb1d3-77cd-4bd0-a1b7-c1abee9d414a)
 
 Descripción acá
 
