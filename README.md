@@ -31,7 +31,7 @@ Este conjunto de datos consolida información de dos fuentes primarias: [`UCI Ma
 
 [`Código - Google Colaboratoy - Segundo Avance`](https://colab.research.google.com/drive/14YeGaN0bRZD51TNwmaerCS7_P57ukByc?usp=sharing)
 
-[`Código - Google Colaboratoy - Segundo Avance`](https://colab.research.google.com/drive/14YeGaN0bRZD51TNwmaerCS7_P57ukByc?usp=sharing)
+[`Código - Google Colaboratoy - Tercer Avance`]()
 # Enlace del video presentación del proyecto
 [`Youtube`]()
 # Enlace de diapositivas de presentación del proyecto
